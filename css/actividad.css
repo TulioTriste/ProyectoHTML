@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(80, 78, 78);
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 30%;
+    height: 100%;
+}
+a{
+    color: aliceblue;
+}
+div{
+    margin-left: 5%;
+}
+
+main{
+    background-color: aqua;
+    margin-left: 15%;
+}
+
+.tempos{
+    margin: 15%;
+    margin-left: 15%;
+    border: 1px solid black;
+}
