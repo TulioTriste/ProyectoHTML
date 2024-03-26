@@ -1,6 +1,7 @@
 # ProyectoHTML
 
-* Lista de extensiones VSC
+**Lista de extensiones VSC**
+  
 * Atom One Dark
 * Material Icon
 * Prettier
